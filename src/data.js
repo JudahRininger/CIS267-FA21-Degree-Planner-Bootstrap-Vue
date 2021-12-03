@@ -1232,3 +1232,5 @@ const  iddCourses = [
         "Subcategory": "IDD Dev"
     }
 ];
+
+export default {lacCourses, csisCourses, cssdCourses, cybCourses, iddCourses}
